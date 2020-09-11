@@ -20,7 +20,7 @@
   
 <div>
   <h2>4️⃣ How to get started?</h2>
-  <p></p>
+  <p>You can run any code notebook directly into the <a href="https://colab.research.google.com/notebooks/welcome.ipynb">Google Colab</a> <div class="tip" markdown="1">$$->$$</div></p>
 </div>
 
 <div>
