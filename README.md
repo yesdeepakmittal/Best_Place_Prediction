@@ -1,5 +1,5 @@
 <div align="center">
-  <p align="right"><a href="https://github.com/yesdeepakmittal/yesdeepakmittal/blob/master/README.md">About Author</a></p>
+  <p align="right"><a href="https://github.com/yesdeepakmittal/">About Author</a></p>
   <h1>Best Place Prediction</h1>
 </div>
 
