@@ -27,6 +27,7 @@
   <h2>5️⃣ License</h2>
   <p>This work is licensed under <a href="https://github.com/yesdeepakmittal/Best_Place_Prediction/blob/master/LICENSE"target="_blank"><img src="https://img.shields.io/github/license/yesdeepakmittal/Best_Place_Prediction"></a>.</p>
   <p align="right"><b>Happy Coding :)🖤🖤🖤</b></p>
+  
 </div>
 
 <div>
