@@ -31,5 +31,4 @@
 
 <div>
   <h3><a href="https://blog.solvprob.in/machine-learning/09/2020/best-place-prediction-using-machine-learning/">Read my blog at solvp</a></h3>
-  <p>Hii</p>
 </div>
