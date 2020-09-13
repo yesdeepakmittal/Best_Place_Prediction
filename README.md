@@ -5,7 +5,7 @@
 
 <div>
   <h2>1️⃣ About the project</h2>
-  <p>In this project, we will scrap the names of locations from a wikipedia page. After that, we will get the cordinates of each location. </p>
+  <p>In this project, we will scrap the names of locations from a wikipedia page. After that, we will get the cordinates of each location. After that, using Foursquare API, we will fetch the data of top 100 places nearby to each location. After that we will make 3 cluster of these places according to the frequency of people visit. Afterthat we will visualize the clusters and get the quick result of the analysis.</p>
 </div>
 
 <div>
@@ -15,7 +15,8 @@
 
 <div>
   <h2>3️⃣ Data Source</h2>
-  <p><a href="https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M">Wikipedia</a></p>
+  <p>🌐 <a href="https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M">Wikipedia</a></p>
+  <p>🌐 <a href="https://en.wikipedia.org/wiki/Category:Suburbs_in_Kuala_Lumpur">Wikipedia</a></p>
 </div>
   
 <div>
@@ -29,6 +30,3 @@
   <p align="right"><b>Happy Coding :)🖤🖤🖤</b></p>
 </div>
 
-<div>
-  <h3><a href="https://blog.solvprob.in/machine-learning/09/2020/best-place-prediction-using-machine-learning/">Read my blog at solvp</a></h3>
-</div>
