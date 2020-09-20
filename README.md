@@ -25,7 +25,7 @@
   <p>You can use <a href="https://github.com/yesdeepakmittal/Best_Place_Prediction/blob/master/Malaysia.ipynb">Kaula Lumpur, Malasyia</a> data analysis or <a href="https://github.com/yesdeepakmittal/Best_Place_Prediction/blob/master/Toronto_Canada.ipynb">Toronto, Canada</a> data analysis or both. You can <a href="https://github.com/yesdeepakmittal/Best_Place_Prediction/"><img src="https://img.shields.io/github/forks/yesdeepakmittal/Best_Place_Prediction?label=fork&style=social"></a> this repository to do the analysis for a different location using the same code.</p>
   <p>For geocoding read the documentation <a href="https://geopy.readthedocs.io/en/stable/index.html?highlight=user_agent#usage-with-pandas">here</a> & <a href="https://operations.osmfoundation.org/policies/nominatim/">Policy for Nominatim</a></p>
 </div>
-
+<pre>Change Foursquare secret with your own before starting to prevent hitting an error</pre>
 <div>
   <h2>5️⃣ License</h2>
   <p>This work is licensed under <a href="https://github.com/yesdeepakmittal/Best_Place_Prediction/blob/master/LICENSE"target="_blank"><img src="https://img.shields.io/github/license/yesdeepakmittal/Best_Place_Prediction"></a>. You can use this code and share your work with others.</p>
