@@ -10,7 +10,7 @@
 
 <div>
   <h2>2️⃣ Contributor</h2>
-  <p><a href="https://github.com/yesdeepakmittal"target="_blank">Deepak Mittal</a> <a href="https://github.com/yesdeepakmittal"target="_blank"><img src="https://img.shields.io/github/followers/yesdeepakmittal?style=social"></a></p>
+  <p><a href="https://github.com/yesdeepakmittal"target="_blank">Deepak Mittal</a></p>
 </div>
 
 <div>
