@@ -1,7 +1,17 @@
 # Best Place Prediction
-In this project, we will scrap the names of locations from a wikipedia page. After that, we will get the cordinates of each location. After that, using Foursquare API, we will fetch the data of top 100 places nearby to each location. After that we will make 3 cluster of these places according to the frequency of people visit. Afterthat we will visualize the clusters and get the quick result of the analysis.
+In this project, we will:
+- Scrap the names of locations from a [Wikipedia page](https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M)
+- Get the cordinates of each location using Google API
+- Fetch the data of top 100 venues nearby to each location using [Foursquare API](https://foursquare.com/)
+- Cluster similar Data according to the frequency of people visit
+- Visualize the Data
 
+## Overview
+<div><img src="cordinates/cluster.png" alt="img" width="700" height="400"></div>
 
-### Data Source
+## Note
+Feel free to open an issue or a pull request for changes.  
+
+## Data Source
 - https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
 - https://en.wikipedia.org/wiki/Category:Suburbs_in_Kuala_Lumpur
